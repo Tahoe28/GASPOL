@@ -1,4 +1,4 @@
-const Client = require('instagram-private-api').V1;
+const Client = require('instagram-private-api');
 const delay = require('delay');
 const chalk = require('chalk');
 const _ = require('lodash');
